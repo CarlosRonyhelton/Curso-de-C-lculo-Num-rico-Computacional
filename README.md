@@ -1,1 +1,1 @@
-# Curso-de-C-lculo-Num-rico-Computacional
+# Curso-de-Calculo-Numerico-Computacional
